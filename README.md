@@ -11,7 +11,7 @@ APK Build For Tester: <br>
 
 Preview: <br>
 <p align="center">
-  <img src="https://github.com/mateusayres/android-kotlin-project-for-study/assets/168099824/ad12db1d-3b8a-42ee-b71d-6cd2f85219cb" width="300" height="666">
-  <img src="https://github.com/mateusayres/android-kotlin-project-for-study/assets/168099824/5798a797-90a4-4cc6-812a-fa396f1e5e04" width="300" height="666">
-  <img src="https://github.com/mateusayres/android-kotlin-project-for-study/assets/168099824/ae8722d8-d1a6-4e12-9bdb-6f0d51c5ec2a" width="300" height="666">
+  <img src="https://github.com/mateusayres/android-kotlin-project-for-study/assets/168099824/ad12db1d-3b8a-42ee-b71d-6cd2f85219cb" width="275" height="611">
+  <img src="https://github.com/mateusayres/android-kotlin-project-for-study/assets/168099824/5798a797-90a4-4cc6-812a-fa396f1e5e04" width="275" height="611">
+  <img src="https://github.com/mateusayres/android-kotlin-project-for-study/assets/168099824/ae8722d8-d1a6-4e12-9bdb-6f0d51c5ec2a" width="275" height="611">
 </p>
