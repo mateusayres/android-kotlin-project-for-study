@@ -28,22 +28,22 @@ class ListaActivity : AppCompatActivity() {
         val compCheckBox = Componente(
             1 ,
             "CheckBox",
-            "Componente que representa checagem"
+            "Componente que representa uma checagem"
         )
         val compRadio = Componente(
             2,
             "Radio Group e Radio Button",
-            "Componente que representa seleção por botão"
+            "Componente que representa uma seleção por botão"
         )
         val compButton = Componente(
             3,
             "Button",
-            "Componente que representa botão de ação"
+            "Componente que representa um botão de ação"
         )
         val compTextImput = Componente(
             4,
-            "TextImputLayout e TextImputEditText",
-            "Componente que representa caixa de texto"
+            "TextInputLayout e TextInputEditText",
+            "Componente que representa uma caixa de texto"
         )
         val compSpinner = Componente(
             5,
@@ -58,7 +58,7 @@ class ListaActivity : AppCompatActivity() {
         val compSwitch = Componente(
             7,
             "Switch",
-            "Componente que representa um Switch"
+            "Componente que representa um seletor"
         )
         val compVideo = Componente(
             8,
