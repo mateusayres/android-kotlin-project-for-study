@@ -4,41 +4,56 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:orientation="horizontal"
-    android:padding="24dp"
-    android:id="@+id/llclick">
+    android:orientation="vertical"
+    android:paddingTop="24dp"
+    android:paddingLeft="24dp"
+    android:paddingRight="24dp">
 
     <LinearLayout
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight="10"
-        android:orientation="vertical">
+        android:layout_marginBottom="25dp"
+        android:id="@+id/llclick">
 
-        <TextView
-            android:layout_width="match_parent"
+        <LinearLayout
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:textSize="18sp"
-            android:textStyle="bold"
-            android:text="TÍTULO"
-            android:id="@+id/tvNome"
-            android:layout_marginBottom="3dp"
-            android:textColor="@color/design_default_color_primary"/>
+            android:layout_weight="10"
+            android:orientation="vertical">
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textSize="14sp"
-            android:textStyle="italic"
-            android:text="Descrição do componente"
-            android:id="@+id/tvDescricao"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:text="TÍTULO"
+                android:id="@+id/tvNome"
+                android:layout_marginBottom="3dp"
+                android:textColor="@color/design_default_color_primary"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:textStyle="italic"
+                android:text="Descrição do componente"
+                android:id="@+id/tvDescricao"
+                android:layout_margin="3dp"/>
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:id="@+id/ivNext"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_next"
+            android:layout_weight="1"
+            app:tint="@color/design_default_color_primary" />
     </LinearLayout>
 
-    <ImageView
-        android:layout_width="25dp"
-        android:layout_height="25dp"
-        android:id="@+id/ivNext"
-        android:layout_gravity="center"
-        android:src="@drawable/ic_next"
-        android:layout_weight="1"
-        app:tint="@color/design_default_color_primary" />
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"
+        android:background="?attr/actionBarDivider"
+        android:layout_alignParentBottom="true"/>
 </LinearLayout>
