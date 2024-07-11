@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ProjectForStudy</string>
+    <string name="msg_campo_obrigatorio">Por favor, preencha os campos obrigatórios</string>
+    <string name="str_salvar_login">Lembrar-me</string>
+    <string name="str_termo">Concordo com os termos de uso</string>
+    <string name="str_entrar">Entrar</string>
+    <string name="str_hint_nome">Digite o seu nome *</string>
+    <string name="str_hint_email">Digite o seu e-mail *</string>
+    <string name="str_hint_senha">Digite a sua senha *</string>
+    <string name="str_hint_senha_confirm">Confirme sua senha *</string>
+    <string name="str_salvar">Salvar</string>
+    <string name="str_nao_sou_cadastrado">Não sou cadastrado</string>
+    <string name="msg_sucesso_cadastro">Cadastro realizado com sucesso</string>
+    <string name="msg_campo_senha">Senhas não coincidem</string>
+    <string name="str_voltar">Voltar</string>
+    <string name="msg_concorde_termos">Concorde com os termos de uso</string>
+
+    <string name="str_texto_termo">Todos os direitos desse aplicativo são reservados.</string>
+    <string name="str_ciente">Estou ciente dos termos.</string>
+    <string name="str_concordo">Concordo</string>
+    <string name="str_concordo_termos">Você concorda com os termos do aplicativo?</string>
+    <string name="str_sim">Sim</string>
+    <string name="str_nao">Não</string>
+    <string name="str_continuar">Continuar</string>
+    <string name="str_escolha_disc">Escolha uma disciplina</string>
+    <string name="str_fechar">Fechar</string>
+    <string name="str_abrir">Abrir</string>
+    <string name="str_on">On</string>
+    <string name="str_check_box_tester">CheckBox Tester</string>
+    <string name="str_progress_tester">Progress Tester</string>
+    <string name="str_radio_tester">Radio Tester</string>
+    <string name="str_spinner_tester">Spinner Tester</string>
+    <string name="str_switch_tester">Switch Tester</string>
+    <string name="str_video_tester">Video Tester</string>
+    <string name="str_button_tester">Button Tester</string>
+    <string name="str_toque">Toque aqui</string>
+    <string name="str_til_tie_tester">Til e Tie Tester</string>
+</resources>
