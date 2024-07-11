@@ -6,7 +6,8 @@ My first Kotlin Android App Full Stack, made to register all components and meth
 
 Meu primeiro App Android Kotlin Full Stack, feito para registrar todos os componentes e metodologias utilizadas, como:  viewBinding, listaAdapter, viwerHolder,  validações, button, check-box, progress, radio, spinner, switch, etc.
 
-APK Build For Tester: <br>
+APK Build For Tester: <img align="center" alt="mateusayres-Android" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+<br>
 <a href="https://github.com/mateusayres/android-kotlin-project-for-study/raw/main/ProjectForStudy%20v1.1.0.0.apk">ProjectForStudy v1.1.0.0.apk</a>
 
 Preview: <br>
