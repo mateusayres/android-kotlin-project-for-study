@@ -1,4 +1,4 @@
-# Android-Kotlin-Project-HandyTools <img align="center" alt="mateusayres-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+# Android-Kotlin-Project-For-Study <img align="center" alt="mateusayres-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 
 My first Kotlin Android App Full Stack, made to register all components and methodologies used, such as: viewBinding, listAdapter, viewrHolder, validations, button, check-box, progress, radio, spinner, switch, etc.
 
